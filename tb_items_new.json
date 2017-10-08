@@ -21,7 +21,7 @@
       "min_volume": 0,
       "max_volume": 4000,
       "multi": 20,
-      "flags": [ "BELT_CLIP" ]
+      "flags": [ "STOWABLE" ]
     }
   }
 ]
